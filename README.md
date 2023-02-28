@@ -12,6 +12,17 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Modifications
+
+1. change the cover page locally
+2. add css file into each of html files
+
+References
+
+https://stackoverflow.com/questions/14585101/old-paper-background-texture-with-just-css
+
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
 License/Copyright
 =================
 
