@@ -5,19 +5,25 @@ body {
     background-position: center;
     margin: 0 20%;
 }
-
-h1, h2, h3, h4, h5 {
+h1 {
     color : #444444;
     letter-spacing: 3px;
-}
-
-h1 {
     font-size: 4em;
 }
 
 h2 {
+    color : #444444;
+    letter-spacing: 3px;
     font-size: 3em;
 }
+
+h3, h4, h5 {
+    color : #444444;
+    letter-spacing: 3px;
+    font-size: 2em;
+}
+
+
 
 div pre {
     font-size: 2rem;
@@ -34,12 +40,6 @@ p {
 
 img {
     border-radius: 4.5 px; 
-}
-
-figcaption {
-    font-style: italic;
-    font-size: 1em;
-    padding: 2px;
 }
 
 a {
