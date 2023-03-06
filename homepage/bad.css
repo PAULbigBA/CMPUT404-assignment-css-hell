@@ -1,0 +1,75 @@
+    body {
+    background-image: url("dj.jpg");
+    height: 100%;
+    margin: 10;
+    padding-bottom: 10%;
+    font-family:  "Bembo";
+    color: #f43d3d;
+  }
+  
+  .intro {
+    display: flex;
+    text-align: left;
+    align-items: center;
+    height: 300pt;
+    background-color: rgb(39, 37, 37);
+  }
+  
+  .header {
+    color: #ffffff;
+    font-size: 5em;
+    font-family: serif;
+    margin-bottom: 0pt;
+  }
+  
+  .nav {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: rgb(90, 220, 129);
+    position: sticky;
+  }
+  
+  .menu a {
+    display: block;
+    color: rgb(79, 4, 255);
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .profile {
+    width: 100%;
+    height: 150pt;
+    margin: auto;
+    display: block;
+  }
+  
+  .info {
+    height: 40%;
+    margin: 0 14%;
+    padding-bottom: 50pt;
+  }
+  
+  .sidebar {
+    height: 40%;
+    width: 20em;
+    text-align:center;
+    float: inline-end;
+    background-color: rgb(176, 146, 146);
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .section {
+    margin-top: 5;
+    margin-bottom: 5;
+    font-size: 0.5em;
+  }
+  
+  .key {
+    list-style-type: none;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: start;
+    font-family: "Times New Roman", Times, serif, Arial, sans-serif;
+  }
