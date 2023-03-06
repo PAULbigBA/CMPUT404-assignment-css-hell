@@ -23,6 +23,12 @@ https://stackoverflow.com/questions/14585101/old-paper-background-texture-with-j
 
 https://developer.mozilla.org/en-US/docs/Web/CSS
 
+https://www.google.com/search?q=bad+background&newwindow=1&sxsrf=AJOqlzVKWJQMFx3QRv4NDABiv3mmHyKBfQ:1678095868638&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjus5ihgsf9AhVqAjQIHfRbBCkQ_AUoAXoECAIQAw&biw=1396&bih=649&dpr=1.38#imgrc=U75WV3qbDi9wXM
+
+https://616pic.com/sucai/z0mfjlw7v.html
+
+https://github.com/solarcreature/CMPUT404-assignment-css-hell.git
+
 License/Copyright
 =================
 
